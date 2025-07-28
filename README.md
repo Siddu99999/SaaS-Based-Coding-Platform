@@ -1,4 +1,4 @@
-# SaaS-based-Coding-Platform-DataBase-Design
+# SaaS-based Coding Platform - Database Design
 This repository provides a comprehensive overview of the database design for a SaaS-based coding platform. The database schema is inspired by the general structure and data flow observed in many popular online coding websites.
 This database consists of only essential components (entities) that covers almost all features of an efficient coding site, giving an edge to - <br/>● Participation in Weekly contests
 <br/>
